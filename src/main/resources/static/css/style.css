@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+h2 {color: black; 
+	font-family:serif;
+	font-size: 2.0em;
+}
+
+body{background-color:lightskyblue;}
+
+th{font-size: 25px;}
+
+td{font-size: 25px;
+   font-family:sans-serif;
+}
+
+a{font-size: 150%;
+	margin:5px;
+ }
+
+input{font-size:125%;
+	  margin: 5px;
+}
