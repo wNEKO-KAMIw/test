@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 public class Authentication {
 	//ユーザー名
 	private String username;
-	//パスワード
+	/*パスワード*/
 	private String password;
 	//権限
 	private Role authority;
